@@ -1,0 +1,15 @@
+#mundo {
+    background-color: cadetblue;
+}
+h1{
+    color:pink;
+    text-align:center;
+}
+
+button{
+    color: red;
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    font-size: 16px;
+}
