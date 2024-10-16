@@ -1,6 +1,12 @@
 #mundo {
     background-color: cadetblue;
 }
+#mudar:hover {
+    color: red;
+    
+    background-color: beige;
+
+}
 h1{
     color:pink;
     text-align:center;
